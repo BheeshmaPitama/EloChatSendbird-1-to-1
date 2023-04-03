@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EloChatSendbird - 1 to 1</string>
+    <string name="join_channel_as_user_1">Join Channel As User 1</string>
+    <string name="join_channel_as_user_2">Join Channel as User 2</string>
+    <string name="type_your_message_here">Type Your Message Here.</string>
+    <string name="send_button">sendButton</string>
+</resources>
